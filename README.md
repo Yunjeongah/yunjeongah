@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Jeongah%20Yun&fontSize=60)
 
 ![blog](https://img.shields.io/badge/Blog-brightgreen?style=flat&logo=naver&logoColor=white)
-![twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)
+![twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white)
+![fb](https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white)
 ![instagram](https://img.shields.io/badge/Insta-ff69b4?style=flat&logo=Instagram&logoColor=white)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chelmeya)](https://solved.ac/chelmeya)
 
