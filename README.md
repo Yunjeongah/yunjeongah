@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Jeongah%20Yun&fontSize=60)
 
-![blog](https://img.shields.io/badge/Blog-brightgreen?style=flat&logo=naver&logoColor=white)
-![twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white)
-![fb](https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white)
-![instagram](https://img.shields.io/badge/Insta-ff69b4?style=flat&logo=Instagram&logoColor=white)
+![py](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![tf](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=white)
+![sk](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![v](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)
+![ub](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chelmeya)](https://solved.ac/chelmeya)
 
 ![KissesGIF](https://user-images.githubusercontent.com/96214121/188601724-9bd17ffd-7281-443d-920b-3c497918ede2.gif)
