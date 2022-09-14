@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Jeongah%20Yun&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeongah%20Yun&fontColor=fffafa&fontSize=60)
 
 ![py](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![tf](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=white)
